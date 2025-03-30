@@ -1,5 +1,12 @@
+.header_row {
+    padding-top: 102px;
+}
+.header_img {
+    padding-left: 80px;
+}
+
+
 .ul_header {
-    height: 21px;
     gap: 46px;
     font-family: Gilroy;
     font-weight: 550;
@@ -15,4 +22,5 @@
     border-radius: 5.95px;
     background-color: #75BF7A;
     color: #FFFFFF;
+    margin-left: 47px;
 }
