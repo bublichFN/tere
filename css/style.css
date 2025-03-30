@@ -1,0 +1,18 @@
+.ul_header {
+    height: 21px;
+    gap: 46px;
+    font-family: Gilroy;
+    font-weight: 550;
+    font-size: 17.16px;
+}
+
+.header_button {
+    font-family: Gilroy;
+    font-weight: 600;
+    font-size: 22px;
+    width: 182px;
+    height: 50px;
+    border-radius: 5.95px;
+    background-color: #75BF7A;
+    color: #FFFFFF;
+}
