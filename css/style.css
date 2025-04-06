@@ -43,11 +43,17 @@ header {
 }
 
 .main_information {
+    padding-top: 27px;
     font-family: Gilroy;
     font-weight: 500;
     font-size: 24px;
     line-height: 28px;
     color: #9E9DA2;
+}
+
+.main_buttons {
+    padding-top: 62px;
+    gap: 30px;
 }
 
 @media (max-width: 570px) {
@@ -57,6 +63,17 @@ header {
         line-height: 37.87px;
     }
 
+    .main_information {
+        font-size: 18px;
+    }
+
+    .header_img {
+        padding-left: 20px;
+    }
+
+    .main_buttons {
+        gap: 8px;
+    }
 }
 
 
