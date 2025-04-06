@@ -49,3 +49,12 @@ header {
     line-height: 28px;
     color: #9E9DA2;
 }
+
+@media (max-width: 570px) {
+
+    .download_app {
+        font-size: 35px;
+        line-height: 37.87px;
+    }
+
+}
