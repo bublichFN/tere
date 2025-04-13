@@ -56,9 +56,21 @@ header {
     gap: 30px;
 }
 
+.forma {
+    width: 1280px;
+    height: 166px;
+    border-radius: 10px;
+    background-color: #75BF7A;
+}
+
 @media (max-width: 570px) {
 
+    body {
+        background: white;
+    }
+
     .download_app {
+        padding-top: 32px;
         font-size: 40px;
         line-height: 37.87px;
     }
@@ -72,8 +84,7 @@ header {
     }
 
     .main_buttons {
-        gap: 8px;
+        padding-top: 24px;
+        gap: 4px;
     }
 }
-
-
