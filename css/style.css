@@ -71,6 +71,8 @@ header {
 }
 
 form input {
+    color: #DADADA;
+    padding-left: 36px;
     height: 67px;
     border-radius: 4.39px;
     font-family: Gilroy;
@@ -78,6 +80,24 @@ form input {
     font-size: 20px;
     background-color: white;
 }
+
+.apply {
+    font-family: Gilroy;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 0px;
+    letter-spacing: 0%;
+    color: white;
+    background-color: black;
+    height: 67px;
+    border-radius: 4.39px;
+}
+
+.padding_wrapper {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
 
 @media (max-width: 570px) {
 
