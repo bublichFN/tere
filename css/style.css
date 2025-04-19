@@ -60,6 +60,7 @@ header {
     height: 166px;
     border-radius: 10px;
     background-color: #75BF7A;
+
 }
 
 .forma p {
@@ -68,6 +69,7 @@ header {
     font-size: 24.6px;
     line-height: 28px;
     color: white;
+    padding-left: 72px;
 }
 
 form input {
