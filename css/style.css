@@ -138,4 +138,10 @@ form input {
         padding-left: 0px;
         padding-right: 0px;
     }
+
+    .forma p {
+        padding-left: 18px;
+    }
+
+    
 }
