@@ -72,6 +72,9 @@ header {
     padding-left: 72px;
 }
 
+.form_wrapper {
+    padding-right: 70px;
+}
 form input {
     color: #DADADA;
     padding-left: 36px;
@@ -141,6 +144,13 @@ form input {
 
     .forma p {
         padding-left: 18px;
+    }
+    .padding_wrapper {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .form_wrapper {
+        padding-right: 0px;
     }
 
     
