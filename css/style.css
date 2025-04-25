@@ -126,6 +126,10 @@ form input {
         gap: 4px;
     }
 
+    .forma {
+        height: 249px;
+    }
+
     .forma p {
         font-size: 24.6px;
     }
