@@ -125,4 +125,13 @@ form input {
         padding-top: 24px;
         gap: 4px;
     }
+
+    .forma p {
+        font-size: 24.6px;
+    }
+
+    .padding_wrapper {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
 }
