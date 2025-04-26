@@ -75,6 +75,7 @@ header {
 .form_wrapper {
     padding-right: 70px;
 }
+
 form input {
     color: #DADADA;
     padding-left: 36px;
@@ -103,6 +104,56 @@ form input {
     padding-right: 80px;
 }
 
+.phone {
+    height: 560px;
+    background-image: url("../imgs/krug.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.how_works {
+    font-family: Gilroy;
+    font-weight: 800;
+    font-size: 46.39px;
+    line-height: 50.35px;
+    letter-spacing: 0%;
+    color: black;
+}
+
+.how_works span {
+    font-family: Gilroy;
+    font-weight: 800;
+    font-size: 46.39px;
+    line-height: 50.35px;
+    letter-spacing: 0%;
+    color: #75BF7A;
+}
+
+.install {
+    font-family: Gilroy;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #9E9DA2;
+}
+
+.general_info {
+    padding-top: 128px;
+}
+
+.one_okruzh {
+    font-family: Gilroy;
+    font-weight: 800;
+    font-size: 34.11px;
+    line-height: 37.02px;
+    letter-spacing: 0%;
+    color: #75BF7A;
+    background-image: url(../imgs/okruzh.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
 @media (max-width: 570px) {
 
@@ -145,13 +196,17 @@ form input {
     .forma p {
         padding-left: 18px;
     }
+
     .padding_wrapper {
         padding-left: 20px;
         padding-right: 20px;
     }
+
     .form_wrapper {
         padding-right: 0px;
     }
 
-    
+    .apply {
+        margin-top: 20px;
+    }
 }
