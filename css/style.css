@@ -136,7 +136,7 @@ form input {
 }
 
 .general_info {
-    padding-top: 128px;
+    padding-top: 44px;
 }
 
 .numbers {
@@ -263,12 +263,13 @@ form input {
         text-align: center;
     }
 
-    .numbers1 {
-        padding-top: 53px;
-    }
 
     .numbers {
         padding-top: 53px;
+    }
+
+    .numbers1 {
+        padding-top: 0px;
     }
 
 }
