@@ -92,7 +92,6 @@ form input {
     font-weight: 800;
     font-size: 22px;
     line-height: 0px;
-    letter-spacing: 0%;
     color: white;
     background-color: black;
     height: 67px;
@@ -116,7 +115,6 @@ form input {
     font-weight: 800;
     font-size: 46.39px;
     line-height: 50.35px;
-    letter-spacing: 0%;
     color: black;
 }
 
@@ -125,7 +123,6 @@ form input {
     font-weight: 800;
     font-size: 46.39px;
     line-height: 50.35px;
-    letter-spacing: 0%;
     color: #75BF7A;
 }
 
@@ -134,7 +131,6 @@ form input {
     font-weight: 500;
     font-size: 23px;
     line-height: 26px;
-    letter-spacing: 0%;
     text-align: center;
     color: #9E9DA2;
 }
@@ -143,17 +139,41 @@ form input {
     padding-top: 128px;
 }
 
-.one_okruzh {
+.numbers {
+    font-family: Gilroy;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #9E9DA2;
+}
+
+.request {
     font-family: Gilroy;
     font-weight: 800;
-    font-size: 34.11px;
-    line-height: 37.02px;
-    letter-spacing: 0%;
-    color: #75BF7A;
-    
-    background-image: url(../imgs/okruzh.svg);
-    background-repeat: no-repeat;
-    background-position: center;
+    font-size: 22px;
+    line-height: 50.35px;
+    color: black;
+}
+
+.reach_office {
+    text-align: right;
+}
+
+.reach_office1 {
+    text-align: left;
+}
+
+.numbers1 {
+    font-family: Gilroy;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #9E9DA2;
+    padding-top: 93px;
+}
+
+.kruzhki {
+    padding-top: 63px;
 }
 
 @media (max-width: 570px) {
@@ -210,4 +230,45 @@ form input {
     .apply {
         margin-top: 20px;
     }
+
+    .how_works {
+        font-family: Gilroy;
+        font-weight: 800;
+        font-size: 24px;
+        line-height: 50.35px;
+        text-align: center;
+    }
+
+    .install {
+        font-family: Gilroy;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+    }
+
+    .how_works span {
+        font-family: Gilroy;
+        font-weight: 800;
+        font-size: 24px;
+        line-height: 50.35px;
+        text-align: center;
+    }
+
+    .reach_office {
+        text-align: center;
+    }
+
+    .reach_office1 {
+        text-align: center;
+    }
+
+    .numbers1 {
+        padding-top: 53px;
+    }
+
+    .numbers {
+        padding-top: 53px;
+    }
+
 }
