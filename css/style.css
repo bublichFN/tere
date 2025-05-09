@@ -207,6 +207,14 @@ form input {
     height: 304px;
     border-radius: 10px;
     background-color: #FFFFFF;
+    margin-right: 235px;
+}
+
+.sect2 {
+    height: 304px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    margin-left: 235px;
 }
 
 
