@@ -217,11 +217,27 @@ form input {
     margin-left: 235px;
 }
 
+.tere_benefits {
+    padding-top: 160px;
+    font-family: Gilroy;
+    font-weight: 800;
+    font-size: 46.39px;
+    line-height: 50.35px;
+}
+
+.tere_benefits span {
+    font-family: Gilroy;
+    font-weight: 800;
+    font-size: 46.39px;
+    line-height: 50.35px;
+    color: #75BF7A;
+}
+
 
 @media (max-width: 570px) {
 
     body {
-        background: white;
+        background: #f9f9f9;
     }
 
     .download_app {
@@ -314,4 +330,34 @@ form input {
         padding-top: 53px;
     }
 
+    .sect1 {
+        margin: 0px;
+        height: auto;
+    }
+
+    .sect2 {
+        margin: 0px;
+        height: auto;
+    }
+
+    .text_benefits01 {
+        font-family: Gilroy;
+        font-weight: 500;
+        font-size: 64.77px;
+        line-height: 87.44px;
+    }
+
+    .flexible {
+        font-family: Gilroy;
+        font-weight: 600;
+        font-size: 24.98px;
+        line-height: 23.92px;
+    }
+
+    .you_can {
+        font-family: Gilroy;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 16.93px;
+    }
 }
