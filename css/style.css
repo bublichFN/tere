@@ -233,6 +233,22 @@ form input {
     color: #75BF7A;
 }
 
+.contacts {
+    font-family: Gilroy;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    color: #8B8BA5;
+}
+
+.contacts h3 {
+    color: #272042;
+    font-family: Gilroy;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 100%;
+}
+
 
 @media (max-width: 570px) {
 
