@@ -233,6 +233,12 @@ form input {
     color: #75BF7A;
 }
 
+footer {
+    padding-top: 71px;
+    margin-top: 275px;
+    background: #FFFFFF;
+}
+
 .contacts {
     font-family: Gilroy;
     font-weight: 400;
@@ -240,6 +246,7 @@ form input {
     line-height: 100%;
     color: #8B8BA5;
 }
+
 
 .contacts h3 {
     color: #272042;
@@ -249,9 +256,18 @@ form input {
     line-height: 100%;
 }
 
-.otere {
+.footer_ul {
+    gap: 15px;
 }
 
+
+.all_rights {
+    font-family: Gilroy;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    color: #75BF7A;
+}
 
 @media (max-width: 570px) {
 
@@ -379,4 +395,10 @@ form input {
         font-size: 18px;
         line-height: 16.93px;
     }
+
+    footer {
+        background: none;
+        margin-top: 54px;
+    }
+    
 }
